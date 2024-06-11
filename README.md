@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AveshRajSingh
-- 👀 I’m interested in App Devlopment 
-- 🌱 I’m currently learning Kotlin & Android Devlopment 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning backend Devlopment
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me
 - You can Email me On :- aveshrajsingh3@gmail.com
 
