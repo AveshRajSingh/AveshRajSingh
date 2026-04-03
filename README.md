@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avesh Raj Singh</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
-- 🌱 I’m currently learning **express.js web socket database**
+- 🌱 I’m currently learning **WebRTC Redis Kafka Real Time Communication**
 
-- 💬 Ask me about **react html css javascript**
+- 💬 Ask me about **react html css javascript Next.js express node socket.io**
 
 - 📫 How to reach me **aveshrajsingh3@gmail.com**
 
