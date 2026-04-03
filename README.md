@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avesh Raj Singh</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 
-- 🌱 I’m currently learning **WebRTC Redis Kafka Real Time Communication**
+- 🌱 I’m currently learning **WebRTC Redis Kafka RealTime Communication**
 
 - 💬 Ask me about **react html css javascript Next.js express node socket.io**
 
